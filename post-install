@@ -1,0 +1,8 @@
+# Install vim
+sudo apt install vim
+
+# Install git
+sudo apt install git
+
+# Install texlive
+sudo apt install texlive
