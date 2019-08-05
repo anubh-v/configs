@@ -21,3 +21,5 @@ set colorcolumn=80
 " Wrap words after 80 chars
 set tw=80
 
+" Match ({[]})
+set showmatch
