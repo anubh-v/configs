@@ -7,6 +7,8 @@ set number
 " Underline the current line
 set cursorline
 
+set wildmenu
+
 " Tabs count as 2 spaces
 set tabstop=2
 set softtabstop=2
@@ -23,3 +25,9 @@ set tw=80
 
 " Match ({[]})
 set showmatch
+
+" Search while chars are entered
+set incsearch
+
+" Highlight matches
+set hlsearch
