@@ -9,3 +9,8 @@ set autoindent
 
 " Show a vertical column to mark 80 chars
 set colorcolumn=80
+
+" Wrap words after 80 chars
+set tw=80
+
+syntax on
