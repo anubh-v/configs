@@ -31,3 +31,6 @@ set incsearch
 
 " Highlight matches
 set hlsearch
+
+" Load language specific settings
+filetype plugin on
