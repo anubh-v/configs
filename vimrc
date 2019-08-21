@@ -34,3 +34,5 @@ set hlsearch
 
 " Load language specific settings
 filetype plugin on
+
+autocmd BufNewFile  *.tex	0r ~/.vim/skeleton.tex
