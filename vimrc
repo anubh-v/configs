@@ -35,6 +35,7 @@ set hlsearch
 " Load language specific settings
 filetype plugin on
 
+" Load skeleton files based on file extension
 autocmd BufNewFile  *.c	0r ~/.vim/skeleton.c
 autocmd BufNewFile  *.html 0r ~/.vim/skeleton.html
 autocmd BufNewFile  *.java 0r ~/.vim/skeleton.java
