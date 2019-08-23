@@ -40,3 +40,6 @@ autocmd BufNewFile  *.c	0r ~/.vim/skeleton.c
 autocmd BufNewFile  *.html 0r ~/.vim/skeleton.html
 autocmd BufNewFile  *.java 0r ~/.vim/skeleton.java
 autocmd BufNewFile  *.tex	0r ~/.vim/skeleton.tex
+
+highlight TrailingSpace ctermbg=red guibg=red
+match TrailingSpace /\s\+$/
