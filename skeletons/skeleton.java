@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-public ClassTemplate {
+class Skeleton {
 
   public static void main(String[] args) {
-
 
   }
 
