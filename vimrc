@@ -1,6 +1,9 @@
 " Turn on syntax highlighting
 syntax on
 
+" Set colorscheme
+colorscheme evening
+
 " Display line numbers "
 set number
 
